@@ -1,7 +1,7 @@
 # LinkedIn Job Scraper Automation
 
 An automated n8n workflow that scrapes LinkedIn job postings, analyzes job matches using AI, and generates personalized cover letters based on your resume.
-
+![Workflow](workflow.png)
 
 ## Overview
 
